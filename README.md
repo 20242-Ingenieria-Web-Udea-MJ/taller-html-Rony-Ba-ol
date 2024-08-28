@@ -12,7 +12,7 @@ Puedes ver la calculadora en acción aquí: [Link de la Calculadora](https://del
 
 1. **Clona este repositorio**:
    ```bash
-   git clone {https://github.com/20242-Ingenieria-Web-Udea-MJ/taller-html-Rony-Ba-ol}
+   git clone https://github.com/20242-Ingenieria-Web-Udea-MJ/taller-html-Rony-Ba-ol
    ```
 2. **Abre el archivo /src/index.html**:
 # taller-html-Rony-Ba-ol
